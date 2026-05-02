@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 
 export default async function handler(req, res) {
-  const { url } = req.query;
+  const { http://supaapp.xyz/live/407163109/152349690187/318197.m3u8 } = req.query;
   if (!url) return res.status(400).send("Missing url");
 
   try {
